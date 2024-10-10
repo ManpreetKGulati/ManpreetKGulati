@@ -56,16 +56,17 @@
 
 ---
 
-## 📂 ** Currently working on**
+## 📈 ** Currently working on**
+
 ### 🛍️ RetailEase
 - **Description:** Developing a **POS system** and **Inventory Management System** using **Springboot, Javascript, and MySQL**.
 - **Repository:** [Click here to access the repository](https://github.com/ManpreetKGulati/InsurancePRO)
 
-  ### 🛍️ CashyFlow
+### 💵 CashyFlow
 - **Description:** Developing a **POS system** using **Swift**.
 - **Repository:** [Click here to access the repository](https://github.com/ManpreetKGulati/CashyFlow)
   
-## 📂 ** Recent Project**
+## 🗂️ ** Recent Project**
 
 ### 🏢 Insurance Broker Management System
 - **Description:** Built a **scalable, thread-safe insurance broker management system** using **HTML** and **JAVA**.
