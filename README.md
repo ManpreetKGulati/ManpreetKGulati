@@ -5,7 +5,7 @@
 
 <div style="background-color:#f0f0f0; padding: 10px; border-radius: 5px;">
     <h3 style="color:#4CAF50;">About Me 👩🏻‍💻</h3>
-    <p>Welcome to my GitHub profile! I'm currently a student at Humber College, enrolled in the<b>Information Technology Solutions (ITS) program</b>. I have a passion for learning new technologies and working on exciting projects involving <b>software development</b>, <b>machine learning</b> and <b>big data</b>.</p>
+    <p>Welcome to my GitHub profile! I'm currently a student at Humber College, enrolled in the <b>Information Technology Solutions (ITS) program</b>. I have a passion for learning new technologies and working on exciting projects involving <b>software development</b>, <b>machine learning</b> and <b>big data</b>.</p>
 </div>
 ---
 
