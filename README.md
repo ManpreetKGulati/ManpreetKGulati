@@ -1,5 +1,8 @@
 # Hi, I'm Manpreet Gulati 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+
+
 Welcome to my GitHub profile! I'm currently a student at Humber College, enrolled in the **Information Technology Solutions (ITS)** program. I have a passion for learning new technologies and working on exciting projects involving **software development**, **machine learning** and **big data**.
 
 ---
